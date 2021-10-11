@@ -10,3 +10,8 @@ ex2. facebook when we click likes button add like on post.
         4. it use to make intactive web pages .
         5.it is use to make applications .
 
+[Q3 what is difference between null and undefune ?]
+-> ans ->  null                            |                       undefine 
+  1] we decalre variable define  value null  |     we  declare variable but not define value 
+  2]  It is type off data is  object         |  It is type off data is undefine 
+  3]  ex. var name=null; output=> null       |  ex. var name;  output is =undefine 
