@@ -23,6 +23,7 @@ ex2. facebook when we click likes button add like on post.
                           ex. var num2="nikhil";
                           consol.long(isnan(num2))//false
 
+
                            if(isNAN(num2))
                            {
                                    consol.log(" please enter the valid number ")
@@ -32,4 +33,6 @@ ex2. facebook when we click likes button add like on post.
                                     consol.log(" please enter the valid number ")
                            }
                             
-                                 
+    [Q5 typeoff is data type ?]
+    -> ans -> no typeoff is  special operator to define type off data 
+       ex. var num=101; consol.log(typeof(num))                             
