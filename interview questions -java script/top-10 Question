@@ -22,3 +22,14 @@ ex2. facebook when we click likes button add like on post.
                           consol.log(isNAN(num))// true 
                           ex. var num2="nikhil";
                           consol.long(isnan(num2))//false
+
+                           if(isNAN(num2))
+                           {
+                                   consol.log(" please enter the valid number ")
+                           }
+                           else
+                            {
+                                    consol.log(" please enter the valid number ")
+                           }
+                            
+                                 
