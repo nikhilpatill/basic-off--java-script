@@ -6,3 +6,4 @@
 // which function not call properly not work properly use consol
 
 console.log("hello word ")
+
