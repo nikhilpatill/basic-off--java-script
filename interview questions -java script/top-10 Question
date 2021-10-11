@@ -15,3 +15,10 @@ ex2. facebook when we click likes button add like on post.
   1] we decalre variable define  value null  |     we  declare variable but not define value 
   2]  It is type off data is  object         |  It is type off data is undefine 
   3]  ex. var name=null; output=> null       |  ex. var name;  output is =undefine 
+
+  [Q4 what is NaN ?]
+  -> ans -> not a number 
+  it is method is NAN() => ex. var num=123456789;
+                          consol.log(isNAN(num))// true 
+                          ex. var num2="nikhil";
+                          consol.long(isnan(num2))//false
